@@ -6,6 +6,6 @@
 | touch | touch bash.md | Tworzenie pustego pliku lub aktualizacja czasu jego modyfikacji. |
 | cp | cp bash.md bash-backup.md | Kopiowanie pliku; wspomnij o opcji -r dla katalogów. |
 | mv | mv bash-backup.md archive.md | Przenoszenie i zmiana nazwy pliku. |
-| rm | rm archive.md | Usuwanie pliku i ostrzeżenie, że operacja omija kosz. |
+| rm | rm archive.md | Usuwanie pliku, operacja omija kosz! |
 | cat | cat bash.md | Wyświetlanie zawartości pliku w terminalu. |
 | clear | clear | Czyszczenie widoku terminala bez usuwania historii poleceń. |
